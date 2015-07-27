@@ -10,11 +10,17 @@ When creating an issue go into the support repository and select the issues icon
 
 ####Step 1
 Enter your credentials at the login
+
 ![Enter credentials](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%201.PNG)
+
+
 
 ####Step 2 
 Enter your 2FA verification code
+
 ![Enter 2FA](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%202.PNG)
+
+
 
 ####Step 3
 Navigate to your Organziation
