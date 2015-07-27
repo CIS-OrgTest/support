@@ -57,7 +57,7 @@ Select the organization you would like to create a support request issue for fro
 
 
 ####Step 7
-#####Create a title specific to you request and a descriptive comment on what your support request is.  Make sure to "@mention" the user you would like to send you request to.  (Check out this blog for more information on @mention)
+#####Create a title specific to you request and a descriptive comment on what your support request is.  Make sure to "@mention" the user you would like to send you request to.  (Check out this blog ![@mention blog](https://github.com/blog/821) for more information on @mention)
 
 ![Create issue](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Request/Support%20Step%207.png)
 
