@@ -36,7 +36,7 @@ Select the organization you would like to create a support request issue for fro
 
 
 ####Step 4
-#####Select the Repository you would like to request support for from your list of repositories or search for it in the search bar
+#####Select the Support Repository.  You can select the Support repo from your list of repositories or search for it in the search bar.
 
 ![Select repository](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Request/Support%20Step%204.png)
 
@@ -57,7 +57,7 @@ Select the organization you would like to create a support request issue for fro
 
 
 ####Step 7
-#####Create a title specific to you request and a descriptive comment on what your support request is (Make sure to "@mention" the user you would like to send you request to)
+#####Create a title specific to you request and a descriptive comment on what your support request is.  Make sure to "@mention" the user you would like to send you request to.  (Check out this blog for more information on @mention)
 
 ![Create issue](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Request/Support%20Step%207.png)
 
