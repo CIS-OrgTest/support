@@ -18,7 +18,7 @@ When creating an issue go into the support repository and select the issues icon
 ####Step 2 
 #####Enter your 2FA verification code
 
-![Enter 2FA](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%202.PNG)
+![Enter 2FA](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Request/Support%20Step%202.PNG)
 
 
 
@@ -26,58 +26,58 @@ When creating an issue go into the support repository and select the issues icon
 #####Navigate to your Organziation
 Select "Your Profile" from your profile picture icon drop down 
 
-![Select your profile](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%203a.png)
+![Select your profile](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Request/Support%20Step%203a.png)
 
 
 Select the organization you would like to create a support request issue for from the list of your organizations
 
-![Select Organization](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%203b.png)
+![Select Organization](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Request/Support%20Step%203b.png)
 
 
 
 ####Step 4
 #####Select the Repository you would like to request support for from your list of repositories or search for it in the search bar
 
-![Select repository](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%204.png)
+![Select repository](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Request/Support%20Step%204.png)
 
 
 
 ####Step 5
 #####Select the issues tab located in the side panel menu
 
-![Select issues tab](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%205.png)
+![Select issues tab](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Request/Support%20Step%205.png)
 
 
 
 ####Step 6
 #####Select the Green "New Issue" button 
 
-![Select New Issues button](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%206.png)
+![Select New Issues button](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Request/Support%20Step%206.png)
 
 
 
 ####Step 7
 #####Create a title specific to you request and a descriptive comment on what your support request is (Make sure to "@mention" the user you would like to send you request to)
 
-![Create issue](https://github.com/BAH-CIS/Test/blob/master/Images/Support%20Step%207.png)
+![Create issue](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Request/Support%20Step%207.png)
 
 
 
 ####Step 8
 #####Select the Label tab from the side action items and select the Purple "Support Request" label
 
-![Select label](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%208.png)
+![Select label](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Request/Support%20Step%208.png)
 
 
 
 ####Step 9
 #####Select the Assign tab from the side action items and assign this issue to the appropriate user 
 
-![Assign Issue](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%209.png)
+![Assign Issue](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Request/Support%20Step%209.png)
 
 
 
 ####Step 10
 #####Select the green Submit New Issue button
 
-![Submit Issue](https://raw.githubusercontent.com/BAH-CIS/Test/5f41d1aeae32d16d8aa8ce055c52bc680b0549fa/Images/Support%20Step%2010a.png)
+![Submit Issue](https://github.com/BAH-CIS/Test/blob/master/Images/Support%20Request/Support%20Step%2010.png)
