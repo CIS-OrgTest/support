@@ -16,29 +16,59 @@ Enter your credentials at the login
 
 
 ####Step 2 
-Enter your 2FA verification code
+#####Enter your 2FA verification code
 
 ![Enter 2FA](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%202.PNG)
 
 
 
 ####Step 3
-Navigate to your Organziation
+#####Navigate to your Organziation
+Select "Your Profile" from your profile picture icon drop down 
+
+![Select your profile](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%203a.png)
+
+
+Select the organization you would like to create a support request issue for from the list of your organizations
+
+![Select Organization](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%203b.png)
+
+
 
 ####Step 4
-Select the Repository you would like to request support for 
+#####Select the Repository you would like to request support for 
+
+![Select repository](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%204.png)
+
+
 
 ####Step 5
-Select the issues tab located in the side panel menu
+#####Select the issues tab located in the side panel menu
 
-####Step 6 
-Select the Green "New Issue" button 
+![Select issues tab](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%205.png)
+
+
+
+####Step 6
+#####Select the Green "New Issue" button 
+
+![Select New Issues button](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%206.png)
+
+
 
 ####Step 7
-Create a title specific to you request and a descriptive comment on what your support request is (Make sure to "@mention" the user you would like to send you request to"
+#####Create a title specific to you request and a descriptive comment on what your support request is (Make sure to "@mention" the user you would like to send you request to)
+
+![Create issue](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%206.png)
+
+
 
 ####Step 8
-Select the Label tab from the side action items and select the Purple "Support Request" label
+#####Select the Label tab from the side action items and select the Purple "Support Request" label
 
+![Select label](
 ####Step 9
-Select the Assign tab from the side action items and assign this issue to the appropriate user 
+#####Select the Assign tab from the side action items and assign this issue to the appropriate user 
+
+####Step 10
+#####Select the green Submit New Issue button
