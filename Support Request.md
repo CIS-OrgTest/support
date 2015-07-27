@@ -11,7 +11,7 @@ When creating an issue go into the support repository and select the issues icon
 ####Step 1
 #####Enter your credentials at the login
 
-![Enter credentials](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%201.PNG)
+![Enter credentials](https://github.com/BAH-CIS/Test/blob/master/Images/Support%20Request/Support%20Step%201.PNG)
 
 
 
