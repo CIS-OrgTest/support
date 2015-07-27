@@ -9,7 +9,7 @@ When creating an issue go into the support repository and select the issues icon
 ###Steps For Creating a Support Request
 
 ####Step 1
-Enter your credentials at the login
+#####Enter your credentials at the login
 
 ![Enter credentials](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%201.PNG)
 
@@ -66,9 +66,18 @@ Select the organization you would like to create a support request issue for fro
 ####Step 8
 #####Select the Label tab from the side action items and select the Purple "Support Request" label
 
-![Select label](
+![Select label](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%208.png)
+
+
+
 ####Step 9
 #####Select the Assign tab from the side action items and assign this issue to the appropriate user 
 
+![Assign Issue](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/Support%20Step%209.png)
+
+
+
 ####Step 10
 #####Select the green Submit New Issue button
+
+![Submit Issue](https://raw.githubusercontent.com/BAH-CIS/Test/5f41d1aeae32d16d8aa8ce055c52bc680b0549fa/Images/Support%20Step%2010a.png)
