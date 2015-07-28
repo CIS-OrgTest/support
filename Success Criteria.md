@@ -8,7 +8,19 @@ We have compiled a list of identified success criteria.  These sucess criteria w
 
 ###Update Document With Your Own Success Criteria
 In the space below identify any criteria specific to your team that would make this pilot a success for your project.
- Please use the suggested format             
-(Suggested Format: User Name - User System - Success Criteria)
+Please use the suggested format (User Name - User System - Success Criteria)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
