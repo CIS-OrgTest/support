@@ -1,10 +1,32 @@
 #GitHub Support Request Process
 
-If you need to make a request for support we would like you to use the issues features to make your request
+
+###Overview
+
+If you need to make a request for support we strongly urge you to use the issues features to make your request in order to keep all issues in a centralized location.
 This link (https://guides.github.com/features/issues/) will provide you with helpful information on using the issues feature.
 
 When creating an issue go into the support repository and select the issues icon on the right side of the page. After you have selected the issues tab within the Support repository write up your support request.  Within your write up us an “@mention” to either your technical POC or any of the organization’s technical support users. After you have written your request and used the “@mention” to tag the appropriate user use the Support request label.  
  
+
+###Issue Ticket Flow
+
+When creating a ticket it will move through different statuses and mutliple users will review and and work on resolving the issue. 
+The ticket should go through a workflow in order to become a fully resolved and closed issue.
+
+1.  Problem is recognized
+	Once the problem is identified capture necessary informaiton and screenshots needed to detail and explain the issue.
+2.  Issue ticket is created
+	During ticket creation idenify problem in detail 
+	Include any image the could better explain your issue 
+	@mention any users within the organization who might need to see or follow the progress of this issue
+	Assign the issue to a user for resolution
+3.  Technician will receive issue ticket
+	Once ticket is assigned the technician will analyze the issue and work on resolving it
+	Once the assigned technician has completed his part of the resolution the technician will comment and re-assign to the next user in the workflow.
+	
+4.  If the ticket does not need to be assigned to another user the technician will comment and close the issue.
+
 
 ###Steps For Creating a Support Request
 
