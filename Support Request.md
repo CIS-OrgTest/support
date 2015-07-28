@@ -9,7 +9,7 @@ This link (https://guides.github.com/features/issues/) will provide you with hel
 When creating an issue go into the support repository and select the issues icon on the right side of the page. After you have selected the issues tab within the Support repository write up your support request.  Within your write up us an “@mention” to either your technical POC or any of the organization’s technical support users. After you have written your request and used the “@mention” to tag the appropriate user use the Support request label.  
  
 
-###Issue Ticket Flow
+###Issue Ticket Workflow
 
 When creating a ticket it will move through different statuses and mutliple users will review and and work on resolving the issue. 
 The ticket should go through a workflow in order to become a fully resolved and closed issue.
