@@ -31,7 +31,7 @@ A complete [public profile](https://github.com/settings/profile) includes:
 - **Location:** Your primary work location (City, State).
 - **Email:** A [verified government email address](https://help.github.com/articles/verifying-your-email-address/).
 
-#### [Add a profile avatar](https://help.github.com/articles/how-do-i-set-up-my-profile-picture/)
+#### [Add a profile picture of yourself](https://help.github.com/articles/how-do-i-set-up-my-profile-picture/)
 
 This is a courtesy that makes team projects all the more social and fun.  It only takes a second but your teammates will _really_ appreciate it. We don't require that it be an actual headshot, but please make it a unique avatar.
 
