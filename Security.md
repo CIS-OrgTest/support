@@ -37,9 +37,10 @@ This is a courtesy that makes team projects all the more social and fun.  It onl
 
 It only takes a moment to go to [your settings page](https://github.com/settings/profile) and upload a picture.  
 
+
 #### Make your membership public
 
-Go to the organization's [team page](https://github.com/orgs/18F/people) and click **Make Public**.  
+Go to the organization's [team page](https://github.com/orgs/18F/people) and click **Make Public**. 
 
 
 ## Teams
