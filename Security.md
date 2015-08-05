@@ -43,11 +43,35 @@ It only takes a moment to go to [your settings page](https://github.com/settings
 Go to the organization's [team page](https://github.com/orgs/18F/people) and click **Make Public**. 
 
 
+## USCIS Pilot Organization Structure
+
+-  One organization will contain all USCIS teams 
+-  Users will only be able to get access to the organization by invite from a current administrator within the environment
+-  There will be a total of 50 private repositories for the entire organization for the first month
+-  Team and repo nomenclature – make repo and team names specific to their access and system i.e. USCIS-WriteTeam-Repo1 (System-Access-Repo)
+-  Private repository access will be granted on a team by team basis subject to the Configuration Manager. 
+A backup system will be put in place in case an emergency recovery is needed 
+
+
 ## Teams
 
 Teams can give you [`administrative`, `write`, or `read` permissions](https://help.github.com/articles/permission-levels-for-an-organization-repository/). Even if you have `write` access into a repository, we _strongly_ encourage the submission of pull requests for improvements or fixes.
 
 Contractors or external government collaborators should only be added to teams with scoped `write` permissions to the respositories they're working on. They should *never* have `administrative` level rights. In order to separate out these permissions, create a team in the format of `projectname-admins` for government staff if necessary.
+
+
+## Team Structure 
+
+-  There will be an Owners team which will govern the organization 
+-  Each project will have its own team within the organization 
+-  Teams will be comprised of selected and authorized users from within the USCIS 
+-  Users will be added to teams by the designated administrators of those teams 
+-  Users can be associated with multiple teams if necessary
+-  Users will be documented by their knowledge and expertise 
+-  Users will have a .gov email associated with their account  
+-  Access permissions (Read/Write/Admin) will be set at the team level  
+-  Designated team administrators will set rules and regulations for their team members
+
 
 ## Additional resources
 
